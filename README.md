@@ -1,4 +1,4 @@
-- 👋 Hello there! I'm @Eliegnassou.
+- 👋 Hello there! I'm @ElieGnassou.
 - 👀 With a Master's in Business Analytics, I'm eager to dive into the workforce!
 - 🌱 Currently honing my analytical skills  
 - 💼 Open to collaborating on data-related projects.
